@@ -17,8 +17,12 @@ File path: from /Users/christiannaykene/.rvm/rubies/ruby-2.7.0/lib/ruby/gems/2.7
 Line number: Line 1
 Solution: Create DockingStation class prior to assignment
 
-###SETTING UP RSPEC AND FIRST TEST
+### SETTING UP RSPEC AND FIRST TEST
 Gem install rspec
 First test of DockingStation class existing
 
-###PASSED OUR FIRST TEST!!!
+### PASSED OUR FIRST TEST!!!
+
+
+### CELEBRATING OUR NEXT ERROR
+No method release_bike
