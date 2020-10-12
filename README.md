@@ -20,3 +20,5 @@ Solution: Create DockingStation class prior to assignment
 ###SETTING UP RSPEC AND FIRST TEST
 Gem install rspec
 First test of DockingStation class existing
+
+###PASSED OUR FIRST TEST!!!
