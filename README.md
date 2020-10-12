@@ -26,3 +26,5 @@ First test of DockingStation class existing
 
 ### CELEBRATING OUR NEXT ERROR
 No method release_bike
+
+### ONE LINE TEST GURUS
