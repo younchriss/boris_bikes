@@ -7,3 +7,6 @@ On Github and local
 
 ### We created the domain model
 Initial objects and messages identified
+
+### Tested class does not exist
+Using irb
