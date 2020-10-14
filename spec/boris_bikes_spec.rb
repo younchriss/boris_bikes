@@ -6,18 +6,13 @@ end
 
 RSpec.describe DockingStation do
   it { is_expected.to respond_to(:release_bike) }
-end
 
-RSpec.describe Bike do
-
+  it 'releases working bikes' do
+    bike = subject.release_bike
+    expect(bike).to be_working
+  end
 end
 
 RSpec.describe Bike do
   it { is_expected.to respond_to(:working?) }
-end
-
-RSpec.describe DockingStation do
-  it "checks output is a Bike from release_bike" do
-    expect(subject.release_bike).to be_an_instance_of(Bike)
-  end
 end
